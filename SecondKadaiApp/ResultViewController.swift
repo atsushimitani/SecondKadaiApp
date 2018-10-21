@@ -19,7 +19,7 @@ class ResultViewController: UIViewController {
 
         // Do any additional setup after loading the view.
         
-        label.text = "名前は\(name)です"
+        label.text = "こんにちは、\(name)さん"
     }
 
     override func didReceiveMemoryWarning() {
